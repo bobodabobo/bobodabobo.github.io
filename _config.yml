@@ -107,7 +107,7 @@ author:
   name             : "Junbo Hao"
   avatar           : "/assets/images/头像.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "及时行乐。"
-  location         : "Somewhere"
+  location         : "ZH"
   email            : "junbo_hao@163.com"
   links:
     - label: "Email"
